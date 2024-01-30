@@ -1,0 +1,111 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 23 Jan 2024 09:14:26 at https://www.capanicus.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.capanicus.com/ -O1 "C:\My Web Sites\dailzer" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+09:16:09	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://www.capanicus.com/)
+09:23:18	Warning: 	File not parsed, looks like binary: https://www.capanicus.com/fonts/akaju.light-webfont.woff2
+09:23:18	Warning: 	File not parsed, looks like binary: https://www.capanicus.com/fonts/akaju.regular-webfont.woff2
+09:23:19	Error: 	"Not Found" (404) at link https://www.capanicus.com/images/company-story/banner-bg.png (from https://www.capanicus.com/css/style.css)
+09:23:19	Warning: 	File not parsed, looks like binary: https://www.capanicus.com/fonts/proxima_nova/ProximaNovaA-Regular.woff2
+09:23:19	Warning: 	File not parsed, looks like binary: https://www.capanicus.com/fonts/proxima_nova/ProximaNovaA-Semibold.woff2
+09:23:45	Warning: 	Moved Permanently for https://www.capanicus.com/blog/?p=1018
+09:23:45	Warning: 	File has moved from https://www.capanicus.com/blog/?p=1018 to https://www.capanicus.com/blog/revolutionize-your-business-with-ai-and-machine-learning-application-development-services/
+09:23:45	Error: 	"Method Not Allowed" (405) at link https://www.capanicus.com/blog/xmlrpc.php (from https://www.capanicus.com/blog/revolutionize-your-business-with-ai-and-machine-learning-application-development-services/)
+09:23:45	Warning: 	Moved Permanently for https://www.capanicus.com/blog/author/capanicus_2vvd2z/
+09:23:45	Warning: 	File has moved from https://www.capanicus.com/blog/author/capanicus_2vvd2z/ to https://www.capanicus.com/blog
+09:24:53	Warning: 	Moved Permanently for https://www.capanicus.com/blog/?p=1015
+09:24:53	Warning: 	File has moved from https://www.capanicus.com/blog/?p=1015 to https://www.capanicus.com/blog/user-centric-approach-to-e-learning-platform-development/
+09:25:09	Warning: 	Moved Permanently for https://www.capanicus.com/blog/?p=1007
+09:25:09	Warning: 	File has moved from https://www.capanicus.com/blog/?p=1007 to https://www.capanicus.com/blog/explore-the-benefits-of-custom-web-application-development-services-for-your-business/
+09:25:09	Warning: 	Moved Permanently for https://www.capanicus.com/blog/?p=981
+09:25:09	Warning: 	File has moved from https://www.capanicus.com/blog/?p=981 to https://www.capanicus.com/blog/how-to-build-a-pharmacy-management-software-features-technologies-and-development-process/
+09:25:22	Warning: 	File not parsed, looks like binary: https://www.capanicus.com/blog/wp-content/themes/intuitive/assets/css/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0
+09:25:23	Error: 	"Not Found" (404) at link https://www.capanicus.com/blog/wp-content/themes/fonts/akaju.light-webfont.woff2 (from https://www.capanicus.com/blog/wp-content/themes/intuitive/style.css?ver=6.4.2)
+09:25:23	Error: 	"Not Found" (404) at link https://www.capanicus.com/blog/wp-content/themes/fonts/akaju.light-webfont.woff (from https://www.capanicus.com/blog/wp-content/themes/intuitive/style.css?ver=6.4.2)
+09:25:23	Error: 	"Not Found" (404) at link https://www.capanicus.com/blog/wp-content/themes/fonts/akaju.regular-webfont.woff2 (from https://www.capanicus.com/blog/wp-content/themes/intuitive/style.css?ver=6.4.2)
+09:25:23	Error: 	"Not Found" (404) at link https://www.capanicus.com/blog/wp-content/themes/fonts/akaju.regular-webfont.woff (from https://www.capanicus.com/blog/wp-content/themes/intuitive/style.css?ver=6.4.2)
+09:25:23	Error: 	"Not Found" (404) at link https://www.capanicus.com/blog/wp-content/themes/images/header-shadow.svg (from https://www.capanicus.com/blog/wp-content/themes/intuitive/style.css?ver=6.4.2)
+09:25:23	Error: 	"Not Found" (404) at link https://www.capanicus.com/blog/wp-content/themes/images/banner-left-shadow.svg (from https://www.capanicus.com/blog/wp-content/themes/intuitive/style.css?ver=6.4.2)
+09:25:23	Error: 	"Not Found" (404) at link https://www.capanicus.com/blog/wp-content/themes/images/banner-circle.svg (from https://www.capanicus.com/blog/wp-content/themes/intuitive/style.css?ver=6.4.2)
+09:25:23	Error: 	"Not Found" (404) at link https://www.capanicus.com/blog/wp-content/themes/images/case-page/shape-arrow.svg (from https://www.capanicus.com/blog/wp-content/themes/intuitive/style.css?ver=6.4.2)
+09:25:54	Warning: 	Moved Permanently for https://www.capanicus.com/blog/?p=969
+09:25:54	Warning: 	File has moved from https://www.capanicus.com/blog/?p=969 to https://www.capanicus.com/blog/why-is-it-important-for-voip-service-providers-to-develop-mobile-sip-dialers/
+09:26:12	Warning: 	Moved Permanently for https://www.capanicus.com/blog/?p=961
+09:26:12	Warning: 	File has moved from https://www.capanicus.com/blog/?p=961 to https://www.capanicus.com/blog/a-guide-to-why-need-calling-card-solutions-and-ip-pbx-software-development-for-your-call-centre/
+09:26:23	Warning: 	Moved Permanently for https://www.capanicus.com/blog/?p=948
+09:26:23	Warning: 	File has moved from https://www.capanicus.com/blog/?p=948 to https://www.capanicus.com/blog/iot-application-development-a-step-by-step-guide-2023/
+09:26:35	Warning: 	Moved Permanently for https://www.capanicus.com/blog/?p=938
+09:26:35	Warning: 	File has moved from https://www.capanicus.com/blog/?p=938 to https://www.capanicus.com/blog/mobile-app-development-establish-a-budget-and-create-effective-apps/
+09:26:39	Warning: 	Moved Permanently for https://www.capanicus.com/blog/?p=930
+09:26:39	Warning: 	File has moved from https://www.capanicus.com/blog/?p=930 to https://www.capanicus.com/blog/e-commerce-website-development-types-influencing-factors-trends-technology/
+09:26:44	Warning: 	Moved Permanently for https://www.capanicus.com/blog/?p=919
+09:26:44	Warning: 	File has moved from https://www.capanicus.com/blog/?p=919 to https://www.capanicus.com/blog/nft-marketplace-development-exploring-the-world-of-nfts-and-digital-collectibles/
+09:27:00	Warning: 	Moved Permanently for https://www.capanicus.com/blog/?p=509
+09:27:00	Warning: 	File has moved from https://www.capanicus.com/blog/?p=509 to https://www.capanicus.com/blog/e-learning-platform-development/
+09:28:46	Warning: 	Moved Permanently for https://www.capanicus.com/blog/?p=897
+09:28:46	Warning: 	File has moved from https://www.capanicus.com/blog/?p=897 to https://www.capanicus.com/blog/blockchain-application-development-seamless-digital-transformation-with-blockchain-solutions/
+09:28:49	Warning: 	Moved Permanently for https://www.capanicus.com/blog/?p=880
+09:28:49	Warning: 	File has moved from https://www.capanicus.com/blog/?p=880 to https://www.capanicus.com/blog/restaurant-mobile-application-development-company/
+09:28:49	Warning: 	Moved Permanently for https://www.capanicus.com/blog/?p=859
+09:28:49	Warning: 	File has moved from https://www.capanicus.com/blog/?p=859 to https://www.capanicus.com/blog/top-and-best-ott-application-development-company/
+09:29:09	Warning: 	Moved Permanently for https://www.capanicus.com/blog/?p=908
+09:29:09	Warning: 	File has moved from https://www.capanicus.com/blog/?p=908 to https://www.capanicus.com/blog/ivr-services-solutions-development-the-phone-system-for-modern-business/
+09:29:21	Warning: 	Moved Permanently for https://www.capanicus.com/blog/?p=502
+09:29:21	Warning: 	File has moved from https://www.capanicus.com/blog/?p=502 to https://www.capanicus.com/blog/video-streaming-application-development-company/
+09:29:27	Warning: 	Moved Permanently for https://www.capanicus.com/blog/?p=537
+09:29:27	Warning: 	File has moved from https://www.capanicus.com/blog/?p=537 to https://www.capanicus.com/blog/online-tutoring-app-development-company/
+09:29:27	Warning: 	Moved Permanently for https://www.capanicus.com/blog/?p=832
+09:29:27	Warning: 	File has moved from https://www.capanicus.com/blog/?p=832 to https://www.capanicus.com/blog/voip-software-development-company/
+09:29:31	Warning: 	Moved Permanently for https://www.capanicus.com/blog/?p=820
+09:29:31	Warning: 	File has moved from https://www.capanicus.com/blog/?p=820 to https://www.capanicus.com/blog/telemedicine-app-development-the-way-to-revolutionize-healthcare/
+09:29:36	Warning: 	Moved Permanently for https://www.capanicus.com/blog/?p=781
+09:29:36	Warning: 	File has moved from https://www.capanicus.com/blog/?p=781 to https://www.capanicus.com/blog/the-surprising-truth-about-smartphone-applications-development/
+09:29:40	Warning: 	Moved Permanently for https://www.capanicus.com/blog/?p=647
+09:29:40	Warning: 	File has moved from https://www.capanicus.com/blog/?p=647 to https://www.capanicus.com/blog/the-advantages-of-live-streaming-apps-for-organisation/
+09:29:42	Warning: 	Moved Permanently for https://www.capanicus.com/blog/?p=575
+09:29:42	Warning: 	File has moved from https://www.capanicus.com/blog/?p=575 to https://www.capanicus.com/blog/webrtc-services-development-company/
+09:30:07	Warning: 	Moved Permanently for https://www.capanicus.com/blog/?p=480
+09:30:07	Warning: 	File has moved from https://www.capanicus.com/blog/?p=480 to https://www.capanicus.com/blog/coming-trends-in-e-commerce/
+09:30:07	Warning: 	Moved Permanently for https://www.capanicus.com/blog/?p=476
+09:30:07	Warning: 	File has moved from https://www.capanicus.com/blog/?p=476 to https://www.capanicus.com/blog/upcoming-technologies-that-will-trigger-your-carrier/
+09:30:07	Warning: 	Moved Permanently for https://www.capanicus.com/blog/?p=472
+09:30:07	Warning: 	File has moved from https://www.capanicus.com/blog/?p=472 to https://www.capanicus.com/blog/covid-19-and-video-conferencing/
+09:30:07	Warning: 	Moved Permanently for https://www.capanicus.com/blog/?p=469
+09:30:07	Warning: 	File has moved from https://www.capanicus.com/blog/?p=469 to https://www.capanicus.com/blog/digital-health-service-telehealth/
+09:30:07	Warning: 	Moved Permanently for https://www.capanicus.com/blog/?p=465
+09:30:07	Warning: 	File has moved from https://www.capanicus.com/blog/?p=465 to https://www.capanicus.com/blog/telemedicine-app-development-company/
+09:30:07	Warning: 	Moved Permanently for https://www.capanicus.com/blog/?p=402
+09:30:07	Warning: 	File has moved from https://www.capanicus.com/blog/?p=402 to https://www.capanicus.com/blog/online-teaching-platform/
+09:30:10	Warning: 	Moved Permanently for https://www.capanicus.com/blog/?p=195
+09:30:10	Warning: 	File has moved from https://www.capanicus.com/blog/?p=195 to https://www.capanicus.com/blog/voip-over-landline/
+09:30:14	Warning: 	Moved Permanently for https://www.capanicus.com/blog/?p=454
+09:30:14	Warning: 	File has moved from https://www.capanicus.com/blog/?p=454 to https://www.capanicus.com/blog/features-and-challenges-of-telemedicine-app/
+09:30:14	Warning: 	Moved Permanently for https://www.capanicus.com/blog/?p=441
+09:30:14	Warning: 	File has moved from https://www.capanicus.com/blog/?p=441 to https://www.capanicus.com/blog/what-is-video-conferencing-business-benefits-of-video-conferencing/
+09:30:18	Warning: 	Moved Permanently for https://www.capanicus.com/blog/?p=436
+09:30:18	Warning: 	File has moved from https://www.capanicus.com/blog/?p=436 to https://www.capanicus.com/blog/telemedicine-app-development/
+09:30:18	Warning: 	Moved Permanently for https://www.capanicus.com/blog/?p=462
+09:30:18	Warning: 	File has moved from https://www.capanicus.com/blog/?p=462 to https://www.capanicus.com/blog/benefits-of-video-conferencing-during-covid-19/
+09:30:20	Warning: 	Moved Permanently for https://www.capanicus.com/blog/?p=458
+09:30:20	Warning: 	File has moved from https://www.capanicus.com/blog/?p=458 to https://www.capanicus.com/blog/latest-trends-that-must-hit-in-video-conferencing/
+09:30:20	Warning: 	Moved Permanently for https://www.capanicus.com/blog/?p=211
+09:30:20	Warning: 	File has moved from https://www.capanicus.com/blog/?p=211 to https://www.capanicus.com/blog/top-advantages-of-webrtc/
+09:30:22	Warning: 	Moved Permanently for https://www.capanicus.com/blog/?p=395
+09:30:22	Warning: 	File has moved from https://www.capanicus.com/blog/?p=395 to https://www.capanicus.com/blog/do-you-know-about-5g/
+09:30:22	Warning: 	Moved Permanently for https://www.capanicus.com/blog/?p=388
+09:30:22	Warning: 	File has moved from https://www.capanicus.com/blog/?p=388 to https://www.capanicus.com/blog/reactjs-application-development-company/
+09:30:26	Warning: 	Moved Permanently for https://www.capanicus.com/blog/?p=383
+09:30:26	Warning: 	File has moved from https://www.capanicus.com/blog/?p=383 to https://www.capanicus.com/blog/the-coding-languages-that-should-be-learned/
+09:30:26	Warning: 	Moved Permanently for https://www.capanicus.com/blog/?p=258
+09:30:26	Warning: 	File has moved from https://www.capanicus.com/blog/?p=258 to https://www.capanicus.com/blog/be-the-master-of-streaming-media/
+09:30:26	Warning: 	Moved Permanently for https://www.capanicus.com/blog/?p=238
+09:30:26	Warning: 	File has moved from https://www.capanicus.com/blog/?p=238 to https://www.capanicus.com/blog/azure-development-company/
+09:30:29	Warning: 	Moved Permanently for https://www.capanicus.com/blog/?p=207
+09:30:29	Warning: 	File has moved from https://www.capanicus.com/blog/?p=207 to https://www.capanicus.com/blog/chatbots-in-start-up/
+
+HTTrack Website Copier/3.49-2 mirror complete in 16 minutes 6 seconds : 1322 links scanned, 1268 files written (163368276 bytes overall) [126368109 bytes received at 130815 bytes/sec], 51372627 bytes transferred using HTTP compression in 183 files, ratio 21%, 8.2 requests per connection
+(11 errors, 89 warnings, 0 messages)
