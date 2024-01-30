@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.capanicus.com	TRUE	/	FALSE	1999999999	PHPSESSID	a8050f7ccd6d4fac86c5a49ac95e6d22
+
